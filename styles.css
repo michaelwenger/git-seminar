@@ -1,7 +1,9 @@
 h1 {
     text-align: center;
+    background-color: gold;
 }
 
 ul {
-    
+ color: green;
+ background-color: brown;
 }
